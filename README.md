@@ -5,7 +5,7 @@
  - 🌱 I’m currently learning Data Analysis and Python at DAHEL TECHIES.
  - 💞️ I’m looking to collaborate on Life Data Project with start up founders and Business Owners.
  - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/adedunmola-tolani-3a68ab108/)
-
+   
 My Arsenal
 - Microsoft Excel
 - SQL (Structured Query Language)
