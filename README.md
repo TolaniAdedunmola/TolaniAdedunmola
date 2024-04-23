@@ -1,6 +1,11 @@
  # - 👋 Hi, I’m Tolani Adedunmola 
 
+<!-- Banner Image -->
+<img src="https://raw.githubusercontent.com/your-username/your-repository/main/images/banner.jpg" alt="Banner Image" width="100%">
 
+<!-- Banner Text -->
+<h1 align="center">Welcome to My GitHub Profile!</h1>
+<p align="center">I'm passionate about coding, open source, and technology.</p>
  - 🌱 I’m currently learning Data Analysis and Python at DAHEL TECHIES.
  - 💞️ I’m looking to collaborate on Life Data Project with start up founders and Business Owners.
  - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/adedunmola-tolani-3a68ab108/)
