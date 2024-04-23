@@ -1,6 +1,7 @@
- # - 👋 Hi, I’m Tolani Adedunmola. #
+ # - 👋 Hi, I’m Adedunmola #
  
 ##  I’m a Data Analyst. ##
+<img src="https://raw.githubusercontent.com/TolaniAdedunmola/TolaniAdedunmola/master/gh-header-image-cropped.png" alt="banner that says Tolani Adedunmola-Data Analyst, Entrepreneur alongside cartoon illustration  of Tolani Adedunmola"> 
 
  - 🌱 I’m currently learning Data Analysis and Python at DAHEL TECHIES.
  - 💞️ I’m looking to collaborate on Life Data Project with start up founders and Business Owners.
