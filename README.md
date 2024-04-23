@@ -1,6 +1,4 @@
- # - 👋 Hi, I’m Adedunmola #
- 
-![Alt](https://www.canva.com/design/DAGDRNbyFiE/sH84tVvsyLwfDWOEl6OOgw/edit?utm_content=DAGDRNbyFiE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ # - 👋 Hi, I’m Tolani Adedunmola 
 
 
  - 🌱 I’m currently learning Data Analysis and Python at DAHEL TECHIES.
