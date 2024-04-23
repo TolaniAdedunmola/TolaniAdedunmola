@@ -1,6 +1,5 @@
  # - 👋 Hi, I’m Adedunmola #
  
-<img src="https://raw.githubusercontent.com/TolaniAdedunmola/TolaniAdedunmola/master/gh-header-image-cropped.png" alt="banner that says Tolani Adedunmola - Data Analyst, Entrepreneur alongside a cartoon illustration of TolaniAdedunmola">
 
 
 
