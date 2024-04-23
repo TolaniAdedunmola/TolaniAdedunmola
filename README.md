@@ -5,6 +5,7 @@
  - 🌱 I’m currently learning Data Analysis and Python at DAHEL TECHIES.
  - 💞️ I’m looking to collaborate on Life Data Project with start up founders and Business Owners. 
 
+
 [Connect on LinkedIn](https://www.linkedin.com/in/adedunmola-tolani)
 
 
