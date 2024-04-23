@@ -1,7 +1,7 @@
  # - 👋 Hi, I’m Tolani Adedunmola 
 
 <!-- Banner Text -->
-[header image](https://raw.githubusercontent.com/TolaniAdedunmola/TolaniAdedunmola/master/gh-header-image-cropped.png)
+[header image](https://raw.githubusercontent.com/TolaniAdedunmola/TolaniAdedunmola/master/gh-header- Banner_20240423_214122_0000.png)
 
  - 🌱 I’m currently learning Data Analysis and Python at DAHEL TECHIES.
  - 💞️ I’m looking to collaborate on Life Data Project with start up founders and Business Owners.
