@@ -1,7 +1,7 @@
  # - 👋 Hi, I’m Tolani Adedunmola 
 
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/your-username/your-repository/main/images/banner.jpg" alt="Banner Image" width="100%">
+<img src="https://raw.githubusercontent.com/TolaniAdedunmola/TolaniAdedunmola/main/images/banner.png" alt="Banner Image" width="100%">
 
 <!-- Banner Text -->
 <h1 align="center">Welcome to My GitHub Profile!</h1>
