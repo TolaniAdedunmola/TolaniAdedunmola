@@ -1,6 +1,6 @@
  # - 👋 Hi, I’m Tolani Adedunmola 
 
-<!-- Banner Image -->
+
 <img src="https://raw.githubusercontent.com/TolaniAdedunmola/TolaniAdedunmola/main/images/banner.png" alt="Banner Image" width="100%">
 
 <!-- Banner Text -->
