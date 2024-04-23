@@ -1,11 +1,8 @@
  # - 👋 Hi, I’m Tolani Adedunmola 
 
-
-<img src="https://raw.githubusercontent.com/TolaniAdedunmola/TolaniAdedunmola/main/images/Black and Red Gradient Professional LinkedIn Banner_20240423_214122_0000.png" alt="Banner Image" width="100%">
-
 <!-- Banner Text -->
-<h1 align="center">Welcome to My GitHub Profile!</h1>
-<p align="center">I'm passionate about coding, open source, and technology.</p>
+<imgsrc="https://raw.githubusercontent.com/TolaniAdedunmola/TolaniAdedunmola/main/images/Black and Red Gradient Professional LinkedIn Banner_20240423_214122_0000.png" alt="Banner Image" width="100%">
+
  - 🌱 I’m currently learning Data Analysis and Python at DAHEL TECHIES.
  - 💞️ I’m looking to collaborate on Life Data Project with start up founders and Business Owners.
  - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/adedunmola-tolani-3a68ab108/)
