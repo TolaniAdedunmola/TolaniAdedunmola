@@ -1,6 +1,7 @@
  # - 👋 Hi, I’m Adedunmola #
  
- <img src="https://raw.githubusercontent.com/TolaniAdedunmola/TolaniAdedunmola/master/gh-header-image-cropped.png" alt="banner that says Tolani Adedunmola - Data Analyst, Entrepreneur alongside cartoon illustration of TolaniAdedunmola">
+![Header Image](https://raw.githubusercontent.com/TolaniAdedunmola/TolaniAdedunmola/master/gh-header-image-cropped.png)
+
 
 
  - 🌱 I’m currently learning Data Analysis and Python at DAHEL TECHIES.
