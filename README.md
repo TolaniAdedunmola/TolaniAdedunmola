@@ -1,7 +1,7 @@
  # - 👋 Hi, I’m Tolani Adedunmola 
 
 
-<img src="https://raw.githubusercontent.com/TolaniAdedunmola/TolaniAdedunmola/main/images/banner.png" alt="Banner Image" width="100%">
+<img src="https://raw.githubusercontent.com/TolaniAdedunmola/TolaniAdedunmola/main/images/Black and Red Gradient Professional LinkedIn Banner_20240423_214122_0000.png" alt="Banner Image" width="100%">
 
 <!-- Banner Text -->
 <h1 align="center">Welcome to My GitHub Profile!</h1>
