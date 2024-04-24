@@ -2,7 +2,10 @@
 
 <!-- Banner Text -->
 <img src="https://github.com/TolaniAdedunmola/TolaniAdedunmola/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner_20240423_214122_0000.png">
- - 🌱 I’m currently learning Data Analysis and Python at DAHEL TECHIES.
+ - 🌱 I am passionate about exploring numbers to extract meaningful information,  using  data to  solve real world problems and making informed decisions.
+  Due to the rapid advancements in technology and the imperative for businesses to make accurate predictions, draw conclusions, and execute well-informed decisions to achieve their objectives, I decided to immerse myself in the realm of data analytics. :bar_chart:
+ 
+ 
  - 💞️ I’m looking to collaborate on Life Data Project with start up founders and Business Owners. 
 
 
