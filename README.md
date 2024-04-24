@@ -1,8 +1,8 @@
- # - 👋 Hi, I’m Tolani Adedunmola 
+ #  👋 Hi, I’m Adedunmola 
 
 <!-- Banner Text -->
 <img src="https://github.com/TolaniAdedunmola/TolaniAdedunmola/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner_20240423_214122_0000.png">
- - 🌱 I am passionate about exploring numbers to extract meaningful information,  using  data to  solve real world problems and making informed decisions.
+  🌱 I am passionate about exploring numbers to extract meaningful information,  using  data to  solve real world problems and making informed decisions.
  
    :bar_chart:   Due to the rapid advancements in technology and the imperative for businesses to make accurate predictions, draw conclusions, and execute well-informed decisions to achieve their objectives, I decided to immerse myself in the realm of data analytics.
  
@@ -12,19 +12,13 @@
 [Connect on LinkedIn](https://www.linkedin.com/in/adedunmola-tolani)
 
 
-
-- 🌱 
-  
-
-
--->
-
-My Arsenal
+#### Data Tools:
 - Microsoft Excel
 - SQL (Structured Query Language)
 - Power BI
 - Tableau
 - Python
+-Jupyter Notebook
 
 <!---
 
