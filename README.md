@@ -6,7 +6,7 @@
  
    :bar_chart:   Due to the rapid advancements in technology and the imperative for businesses to make accurate predictions, draw conclusions, and execute well-informed decisions to achieve their objectives, I decided to immerse myself in the realm of data analytics.
  
- 💞️ I’m looking to collaborate on Life Data Project with start up founders and Business Owners. 
+ 💞️ I’m looking to collaborate on Life Data Project with start up founders and Business Owners industries that seeks value. 
 
 
 [Connect on LinkedIn](https://www.linkedin.com/in/adedunmola-tolani)
